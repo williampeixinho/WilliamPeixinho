@@ -5,14 +5,14 @@
 Hi! I'm William Peixinho, a Full Stack development student with a focus on Python. I'm constantly evolving as a developer. Feel free to explore my portfolio, check out my projects, and follow along on my journey!
 
 <p align="left">
-    <a href="https://www.youtube.com/@WilliamPeixinho?sub_confirmation=1">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-UCc5zAX9Fdl4ztCux21aYTOg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@WilliamPeixinho">
+    <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
