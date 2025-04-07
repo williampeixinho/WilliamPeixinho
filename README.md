@@ -1,6 +1,6 @@
 # 👩🏻‍💻 William Peixinho
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Olá! Me chamo William Peixinho.
 Sou estudante de desenvolvimento Full Stack com foco em Python e estou em constante evolução como dev, Este é o meu portfólio. Fique à vontade para explorar meus projetos e acompanhar minha jornada!
