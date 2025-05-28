@@ -77,6 +77,14 @@ Hi! I'm William Peixinho, a Full Stack development student with a focus on Pytho
 />
 <img 
     align="left" 
+    alt="Gulp" 
+    title="Gulp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Gulp/Gulp-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
