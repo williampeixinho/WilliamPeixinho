@@ -99,18 +99,13 @@ I love turning ideas into digital products, combinando programação, design e a
 
 ### 📊 Estatísticas
 
-<p>
- 
-
-<img 
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=williampeixinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-
+<p align="left">
+  <img
+    alt="GitHub Stats"
+    height="200"
+    width="100%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=williampeixinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
+  />
 </p>
 
 
