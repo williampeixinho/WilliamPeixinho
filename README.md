@@ -104,7 +104,7 @@ I love turning ideas into digital products, combinando programação, design e a
     alt="GitHub Stats"
     height="200"
     width="100%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=williampeixinho"
+    src="https://github-profile-trophy.vercel.app/?username=williampeixinho&theme=tokyonight&no-bg=true&margin-w=10"
   />
 </p>
 
