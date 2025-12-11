@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Hi! I'm William Peixinho — Full Stack developer in training, focused on Python, AI and creative solutions.  
-I love turning ideas into digital products, combinando programação, design e automação.!
+Hi! I'm William Peixinho — Full Stack developer in training, focused on Python, AI, and creative solutions.
+I love transforming ideas into digital products through code, design, and automation.
 
 
 
