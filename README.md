@@ -103,8 +103,7 @@ I love turning ideas into digital products, combinando programação, design e a
   <!-- Estatísticas principais -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williampeixinho&theme=tokyonight" 
-    alt="GitHub Stats"
-    
+    alt="GitHub Stats"  
   />
 
   <!-- Linguagens mais usadas -->
