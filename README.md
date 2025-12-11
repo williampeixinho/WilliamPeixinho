@@ -103,12 +103,13 @@ I love turning ideas into digital products, combinando programação, design e a
  
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-        width="100%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=williampeixinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=williampeixinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
 
 </p>
 
