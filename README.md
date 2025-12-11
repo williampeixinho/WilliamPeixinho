@@ -99,13 +99,10 @@ I love turning ideas into digital products, combinando programação, design e a
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img
-    alt="GitHub Stats"
-    height="200"
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=williampeixinho&theme=tokyonight&no-bg=true&margin-w=10"
-  />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=williampeixinho&theme=tokyonight&border_radius=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=williampeixinho&theme=tokyonight&no-bg=true&margin-w=10" />
 </p>
+
 
 
