@@ -100,9 +100,25 @@ I love turning ideas into digital products, combinando programação, design e a
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=williampeixinho&theme=tokyonight&border_radius=10" />
-  <img src="https://github-profile-trophy.vercel.app/?username=williampeixinho&theme=tokyonight&no-bg=true&margin-w=10" />
+  <!-- Estatísticas principais -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williampeixinho&theme=tokyonight" 
+    alt="GitHub Stats"
+    height="180"
+  />
+
+  <!-- Linguagens mais usadas -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williampeixinho&theme=tokyonight" 
+    alt="Top Languages"
+    height="180"
+  />
+
+  <!-- Detalhes do perfil -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williampeixinho&theme=tokyonight" 
+    alt="Profile Details"
+    width="100%"
+  />
 </p>
-
-
 
