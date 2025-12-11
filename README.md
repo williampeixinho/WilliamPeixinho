@@ -104,14 +104,14 @@ I love turning ideas into digital products, combinando programação, design e a
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williampeixinho&theme=tokyonight" 
     alt="GitHub Stats"
-    height="100"
+    
   />
 
   <!-- Linguagens mais usadas -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williampeixinho&theme=tokyonight" 
     alt="Top Languages"
-    height="100"
+   
   />
 
   <!-- Detalhes do perfil -->
