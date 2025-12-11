@@ -99,23 +99,17 @@ I love turning ideas into digital products, combinando programação, design e a
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <!-- Estatísticas principais -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williampeixinho&theme=tokyonight" 
-    alt="GitHub Stats"  
-  />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williampeixinho&theme=tokyonight" alt="stats" width="420"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williampeixinho&theme=tokyonight" alt="languages" width="420"/>
+    </td>
+  </tr>
+</table>
 
-  <!-- Linguagens mais usadas -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williampeixinho&theme=tokyonight" 
-    alt="Top Languages"
-  />
-  <!-- Detalhes do perfil -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williampeixinho&theme=tokyonight" 
-    alt="Profile Details"
-    width="100%"
-  />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williampeixinho&theme=tokyonight" alt="details" width="100%"/>
+
 
