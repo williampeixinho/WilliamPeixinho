@@ -41,8 +41,8 @@ Servidor caseiro 100% em Docker, com painel próprio no [Homepage](https://getho
 Rodando: Nextcloud (nuvem pessoal), FreshRSS, Stremio e mais.
 
 **🤖 IA self-hosted**
-Open WebUI como interface de chat para modelos de IA e Flowise para montar fluxos e agentes
-de forma visual, tudo rodando localmente na minha rede.
+Open WebUI como interface de chat para modelos de IA, Flowise para montar fluxos visuais e
+Hermes Agent como agente autônomo, tudo rodando localmente na minha rede.
 
 ---
 
@@ -62,6 +62,7 @@ de forma visual, tudo rodando localmente na minha rede.
   <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20WebUI-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Flowise-4B32C3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes%20Agent-7C3AED?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/FreshRSS-F68E2E?style=for-the-badge&logo=rss&logoColor=white" />
 </p>
 
