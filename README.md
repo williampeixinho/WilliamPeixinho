@@ -1,115 +1,33 @@
-# 👩🏻‍💻 William Peixinho
+👨🏻‍💻 William Peixinho
 
-**`Desenvolvedor FullStack`**
+Desenvolvedor Full Stack · Homelab · IA self-hosted
 
-Hi! I'm William Peixinho — Full Stack developer in training, focused on Python, AI, and creative solutions.
-I love transforming ideas into digital products through code, design, and automation.
+Oi! Sou o William, desenvolvedor Full Stack em formação, focado em Python, IA e automação. Gosto de transformar ideias em produtos digitais e de rodar minha própria infraestrutura em casa: do front-end em React até containers Docker num Raspberry Pi.
 
+🛠️ Stack
 
+Front-end
 
----
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Front-end" /> </p>
 
-### 🤖 Linguagens e Tecnologias
+Back-end & IA
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+<p> <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Back-end" /> </p>
 
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Gulp" 
-    title="Gulp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://gulpjs.com/img/gulp.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
+Infra & Ferramentas
 
----
+<p> <img src="https://skillicons.dev/icons?i=docker,linux,raspberrypi,bash,git,github,vscode" alt="Infra" /> </p>
+🚀 O que ando construindo
 
-### 📊 Estatísticas
+🏠 Homelab no Raspberry Pi 5 Servidor caseiro 100% em Docker, com painel próprio no Homepage. Rodando: Nextcloud (nuvem pessoal), FreshRSS, PairDrop, Stremio e mais.
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williampeixinho&theme=tokyonight" alt="stats" width="420"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williampeixinho&theme=tokyonight" alt="languages" width="420"/>
-    </td>
-  </tr>
-</table>
+🤖 IA self-hosted Open WebUI como interface de chat para modelos de IA e Flowise para montar fluxos e agentes de forma visual, tudo rodando localmente na minha rede.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williampeixinho&theme=tokyonight" alt="details" width="100%"/>
+⛏️ Servidor de Minecraft modded Servidor com o modpack Prominence II (Fabric 1.20.1), exposto pela internet com túnel playit.gg em container, sem abrir portas no roteador. Bastante aprendizado sobre performance, pré-geração de chunks e rede.
 
-
+🌱 Agora
+Aprofundando em Python e integração com APIs de IA
+Melhorando meu inglês para trabalhar com times internacionais
+Automatizando cada vez mais coisas no homelab
+📊 Estatísticas
+<table> <tr> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williampeixinho&theme=tokyonight" alt="stats" width="420"/> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williampeixinho&theme=tokyonight" alt="languages" width="420"/> </td> </tr> </table> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williampeixinho&theme=tokyonight" alt="details" width="100%"/>
