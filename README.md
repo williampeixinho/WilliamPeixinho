@@ -38,7 +38,7 @@ liberando a equipe para o que realmente importa.
 
 **🏠 Homelab no Raspberry Pi 5**
 Servidor caseiro 100% em Docker, com painel próprio no [Homepage](https://gethomepage.dev).
-Rodando: Nextcloud (nuvem pessoal), FreshRSS, PairDrop, Stremio e mais.
+Rodando: Nextcloud (nuvem pessoal), FreshRSS, Stremio e mais.
 
 **🤖 IA self-hosted**
 Open WebUI como interface de chat para modelos de IA e Flowise para montar fluxos e agentes
@@ -63,7 +63,6 @@ de forma visual, tudo rodando localmente na minha rede.
   <img src="https://img.shields.io/badge/Open%20WebUI-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Flowise-4B32C3?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/FreshRSS-F68E2E?style=for-the-badge&logo=rss&logoColor=white" />
-  <img src="https://img.shields.io/badge/PairDrop-1E88E5?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
