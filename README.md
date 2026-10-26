@@ -37,9 +37,7 @@ Sistemas que resolvem gargalos específicos de cada negócio e automatizam taref
 liberando a equipe para o que realmente importa.
 
 **🏠 Homelab no Raspberry Pi 5**
-Servidor caseiro 100% em Docker, com painel próprio no [Homepage](https://gethomepage.dev).
-Rodando: Nextcloud (nuvem pessoal), FreshRSS, Stremio e mais.
-
+Servidor caseiro 100% em Docker.
 **🤖 IA self-hosted**
 Open WebUI como interface de chat para modelos de IA, Flowise para montar fluxos visuais e
 Hermes Agent como agente autônomo, tudo rodando localmente na minha rede.
